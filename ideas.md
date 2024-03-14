@@ -6,4 +6,4 @@
 2. You choose a class and a world(which doesnt affect anything, basically no world is more OP than the other its just aesthetics).
 3. Random bosses
 4. Per level up new mobs
-
+5. Hidden Konami code
