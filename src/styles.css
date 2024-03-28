@@ -1,4 +1,4 @@
-h1 {
+.title {
     justify-content: center;
     display: flex;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
@@ -9,10 +9,7 @@ h1 {
     padding-top: 15px;
     margin-top: 30px;
     margin-bottom: 10px;
-}
-
-img {
-    width: 1080;
+    align-items: center;
 }
 
 body {
@@ -34,4 +31,9 @@ body {
   height: 50px;
   width: 200px;
   background-color: green;
+}
+
+.Background{
+  width: 1900;
+  height: 750;
 }
