@@ -36,4 +36,5 @@ body {
 .Background{
   width: 1900;
   height: 750;
+  position: relative;
 }
